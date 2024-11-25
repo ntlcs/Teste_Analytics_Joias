@@ -1,0 +1,101 @@
+ID,Data,Produto,Categoria,Quantidade,Preço,Mês
+ID-0001,2023-02-08 00:00:00.000000000,Pulseira Aura em Ouro Amarelo 18k com Citrinos,Pulseiras,7,520.21,2
+ID-0002,2023-06-02 00:00:00.000000000,Corrente Cadeado Alongada em Ouro Amarelo 18k,Correntes,10,223.23,6
+ID-0003,2023-04-29 00:00:00.000000000,Anel Celeste em Ouro Amarelo 18k com Diamantes,Anéis,3,1352.46,4
+ID-0004,2023-03-02 00:00:00.000000000,Pingente Religioso N.Sra.Aparecida em Ouro Amarelo 18k com Safira Azul,Pingentes,6,872.45,3
+ID-0005,2023-10-16 00:00:00.000000000,Colar Chains Color em Prata 925 com Topázios London e Safiras Incolores,Colares,10,172.34,10
+ID-0006,2023-06-12 00:00:00.000000000,Colar Chains Color em Prata 925 com Topázios London e Safiras Incolores,Colares,3,1674.91,6
+ID-0007,2023-08-14 00:00:00.000000000,Conjunto Especial Inverno em Ouro Amarelo 18k com Pérola e Diamantes,Conjuntos,1,1760.25,8
+ID-0008,2023-07-01 08:26:22.417582336,Anel Celeste em Ouro Amarelo 18k com Diamantes,Anéis,5,924.3,7
+ID-0009,2023-05-18 00:00:00.000000000,Pingente Religioso N.Sra.Aparecida em Ouro Amarelo 18k com Safira Azul,Pingentes,5,1139.42,5
+ID-0010,2023-06-18 00:00:00.000000000,Anel Celeste em Ouro Amarelo 18k com Diamantes,Anéis,7,1791.25,6
+ID-0011,2023-11-03 00:00:00.000000000,Corrente Cadeado Alongada em Ouro Amarelo 18k,Correntes,1,992.12,11
+ID-0012,2023-07-01 08:26:22.417582336,Conjunto Especial Primavera em Ouro Branco 18k com Pérola e Diamantes,Conjuntos,7,1434.84,7
+ID-0013,2023-03-04 00:00:00.000000000,Conjunto Especial Outono em Ouro Amarelo 18k com Diamantes,Conjuntos,10,1051.7,3
+ID-0014,2023-05-12 00:00:00.000000000,Conjunto Especial Inverno em Ouro Amarelo 18k com Pérola e Diamantes,Conjuntos,6,296.73,5
+ID-0015,2023-04-22 00:00:00.000000000,Corrente Veneziana em Ouro Branco 18k,Correntes,4,792.4,4
+ID-0016,2023-01-16 00:00:00.000000000,Colar Sirena em Ouro Rosé 18k com Topázios Sky e Topázios London,Colares,2,379.35,1
+ID-0017,2023-12-05 00:00:00.000000000,Colar Sirena em Ouro Rosé 18k com Topázios Sky e Topázios London,Colares,3,1735.75,12
+ID-0018,2023-06-26 00:00:00.000000000,Anel Vivara em Ouro Amarelo 18k com Ágata Verde e Diamantes,Anéis,8,1462.11,6
+ID-0019,2023-06-08 00:00:00.000000000,Corrente Groumet em Ouro Amarelo 18k,Correntes,6,1085.73,6
+ID-0020,2023-04-12 00:00:00.000000000,Brinco Baby Bolinha em Ouro Amarelo 18k,Brincos,5,1083.74,4
+ID-0021,2023-03-04 00:00:00.000000000,Brinco Baby Bolinha em Ouro Amarelo 18k,Brincos,4,731.55,3
+ID-0022,2023-03-31 00:00:00.000000000,Conjunto Especial Outono em Ouro Amarelo 18k com Diamantes,Conjuntos,5,891.53,3
+ID-0023,2023-12-19 00:00:00.000000000,Anel Celeste em Ouro Amarelo 18k com Diamantes,Anéis,10,1196.99,12
+ID-0024,2023-07-13 00:00:00.000000000,Brinco Baby Solitário em Ouro Amarelo 18k com Esmeralda,Brincos,6,529.3,7
+ID-0025,2023-11-22 00:00:00.000000000,Pingente Cores em Ouro Amarelo 18k e Safira Azul,Pingentes,7,103.03,11
+ID-0026,2023-03-21 00:00:00.000000000,Corrente Cadeado Alongada em Ouro Amarelo 18k,Correntes,6,1370.91,3
+ID-0027,2023-06-26 00:00:00.000000000,Anel Verano em Prata 925 com Rodolita e Acitrinato,Anéis,8,563.13,6
+ID-0028,2023-05-26 00:00:00.000000000,Colar Chains Color em Prata 925 com Topázios London e Safiras Incolores,Colares,9,1848.48,5
+ID-0029,2023-07-11 00:00:00.000000000,Pingente Celeste em Ouro Amarelo 18k com Diamantes,Pingentes,9,157.07,7
+ID-0030,2023-09-07 00:00:00.000000000,Anel Vivara em Ouro Amarelo 18k com Ágata Verde e Diamantes,Anéis,8,1348.09,9
+ID-0031,2023-07-15 00:00:00.000000000,Pingente Celeste em Ouro Amarelo 18k com Diamantes,Pingentes,4,696.27,7
+ID-0032,2023-11-04 00:00:00.000000000,Anel Verano em Prata 925 com Rodolita e Acitrinato,Anéis,2,1273.61,11
+ID-0033,2023-06-11 00:00:00.000000000,Anel Vivara em Ouro Amarelo 18k com Ágata Verde e Diamantes,Anéis,10,1716.56,6
+ID-0034,2023-05-13 00:00:00.000000000,Conjunto Especial Primavera em Ouro Branco 18k com Pérola e Diamantes,Conjuntos,10,1749.44,5
+ID-0035,2023-01-08 00:00:00.000000000,Conjunto Especial Inverno em Ouro Amarelo 18k com Pérola e Diamantes,Conjuntos,3,1198.85,1
+ID-0036,2023-09-22 00:00:00.000000000,Colar Sirena em Ouro Rosé 18k com Topázios Sky e Topázios London,Colares,4,222.84,9
+ID-0037,2023-04-14 00:00:00.000000000,Conjunto Especial Outono em Ouro Amarelo 18k com Diamantes,Conjuntos,4,141.53,4
+ID-0038,2023-06-30 00:00:00.000000000,Conjunto Especial Primavera em Ouro Branco 18k com Pérola e Diamantes,Conjuntos,3,564.45,6
+ID-0039,2023-05-25 00:00:00.000000000,Brinco Argola Bombe Gomos em Prata 925,Brincos,9,1119.81,5
+ID-0040,2023-09-16 00:00:00.000000000,Corrente Veneziana em Ouro Branco 18k,Correntes,6,1299.91,9
+ID-0041,2023-03-19 00:00:00.000000000,Pulseira Aura em Ouro Amarelo 18k com Citrinos,Pulseiras,6,350.56,3
+ID-0042,2023-04-29 00:00:00.000000000,Anel Celeste em Ouro Amarelo 18k com Diamantes,Anéis,2,570.86,4
+ID-0043,2023-03-11 00:00:00.000000000,Colar Sonata em Ouro Amarelo 18k,Colares,6,1727.63,3
+ID-0044,2023-10-25 00:00:00.000000000,Anel Celeste em Ouro Amarelo 18k com Diamantes,Anéis,9,148.49,10
+ID-0045,2023-06-18 00:00:00.000000000,Colar Chains Color em Prata 925 com Topázios London e Safiras Incolores,Colares,9,1749.4,6
+ID-0046,2023-09-17 00:00:00.000000000,Conjunto Especial Primavera em Ouro Branco 18k com Pérola e Diamantes,Conjuntos,7,1455.64,9
+ID-0047,2023-05-26 00:00:00.000000000,Pingente Celeste em Ouro Amarelo 18k com Diamantes,Pingentes,8,627.46,5
+ID-0048,2023-09-17 00:00:00.000000000,Corrente Veneziana em Ouro Branco 18k,Correntes,1,1782.22,9
+ID-0049,2023-01-02 00:00:00.000000000,Anel Celeste em Ouro Amarelo 18k com Diamantes,Anéis,9,1042.25,1
+ID-0050,2023-09-16 00:00:00.000000000,Brinco Baby Solitário em Ouro Amarelo 18k com Esmeralda,Brincos,1,1236.17,9
+ID-0051,2023-07-04 00:00:00.000000000,Brinco Argola Bombe Gomos em Prata 925,Brincos,3,1495.0,7
+ID-0052,2023-08-14 00:00:00.000000000,Corrente Cadeado Alongada em Ouro Amarelo 18k,Correntes,10,1680.08,8
+ID-0053,2023-06-23 00:00:00.000000000,Pulseira Aura em Ouro Amarelo 18k com Citrinos,Pulseiras,3,1589.9,6
+ID-0054,2023-07-01 08:26:22.417582336,Corrente Veneziana em Ouro Branco 18k,Correntes,4,1581.34,7
+ID-0055,2023-05-02 00:00:00.000000000,Anel Celeste em Ouro Amarelo 18k com Diamantes,Anéis,8,365.27,5
+ID-0056,2023-01-17 00:00:00.000000000,Anel Vivara em Ouro Amarelo 18k com Ágata Verde e Diamantes,Anéis,8,1952.04,1
+ID-0057,2023-05-05 00:00:00.000000000,Brinco Baby Bolinha em Ouro Amarelo 18k,Brincos,9,738.78,5
+ID-0058,2023-08-12 00:00:00.000000000,Brinco Baby Bolinha em Ouro Amarelo 18k,Brincos,8,1504.4,8
+ID-0059,2023-09-11 00:00:00.000000000,Anel Celeste em Ouro Amarelo 18k com Diamantes,Anéis,6,1824.04,9
+ID-0060,2023-09-05 00:00:00.000000000,Corrente Veneziana em Ouro Branco 18k,Correntes,7,1205.24,9
+ID-0061,2023-03-04 00:00:00.000000000,Pingente Cores em Ouro Amarelo 18k e Safira Azul,Pingentes,1,1486.57,3
+ID-0062,2023-08-18 00:00:00.000000000,Colar Chains Color em Prata 925 com Topázios London e Safiras Incolores,Colares,3,510.37,8
+ID-0063,2023-07-26 00:00:00.000000000,Pingente Cores em Ouro Amarelo 18k e Safira Azul,Pingentes,7,1034.57,7
+ID-0064,2023-01-12 00:00:00.000000000,Brinco Argola Bombe Gomos em Prata 925,Brincos,6,1364.53,1
+ID-0065,2023-08-14 00:00:00.000000000,Conjunto Especial Outono em Ouro Amarelo 18k com Diamantes,Conjuntos,4,602.36,8
+ID-0066,2023-11-10 00:00:00.000000000,Pingente Celeste em Ouro Amarelo 18k com Diamantes,Pingentes,8,1652.6,11
+ID-0067,2023-02-16 00:00:00.000000000,Corrente Groumet em Ouro Amarelo 18k,Correntes,2,1448.99,2
+ID-0068,2023-04-26 00:00:00.000000000,Pingente Religioso N.Sra.Aparecida em Ouro Amarelo 18k com Safira Azul,Pingentes,4,1740.92,4
+ID-0069,2023-04-30 00:00:00.000000000,Corrente Groumet em Ouro Amarelo 18k,Correntes,5,686.88,4
+ID-0070,2023-11-15 00:00:00.000000000,Colar Chains Color em Prata 925 com Topázios London e Safiras Incolores,Colares,2,894.21,11
+ID-0071,2023-06-10 00:00:00.000000000,Pulseira Fiori em Ouro Branco 18k com Diamantes,Pulseiras,5,871.58,6
+ID-0072,2023-09-03 00:00:00.000000000,Brinco Argola Bombe Gomos em Prata 925,Brincos,7,1914.3,9
+ID-0073,2023-11-22 00:00:00.000000000,Corrente Groumet em Ouro Amarelo 18k,Correntes,10,909.06,11
+ID-0074,2023-07-01 08:26:22.417582336,Pulseira Fiori em Ouro Branco 18k com Diamantes,Pulseiras,5,1250.85,7
+ID-0075,2023-07-01 08:26:22.417582336,Conjunto Especial Primavera em Ouro Branco 18k com Pérola e Diamantes,Conjuntos,9,362.51,7
+ID-0076,2023-10-14 00:00:00.000000000,Pulseira Fiori em Ouro Branco 18k com Diamantes,Pulseiras,10,1675.75,10
+ID-0077,2023-12-02 00:00:00.000000000,Colar Chains Color em Prata 925 com Topázios London e Safiras Incolores,Colares,5,688.65,12
+ID-0078,2023-04-16 00:00:00.000000000,Brinco Baby Bolinha em Ouro Amarelo 18k,Brincos,4,1973.63,4
+ID-0079,2023-07-12 00:00:00.000000000,Brinco Baby Bolinha em Ouro Amarelo 18k,Brincos,7,884.44,7
+ID-0080,2023-03-26 00:00:00.000000000,Anel Celeste em Ouro Amarelo 18k com Diamantes,Anéis,3,1861.25,3
+ID-0081,2023-05-27 00:00:00.000000000,Anel Vivara em Ouro Amarelo 18k com Ágata Verde e Diamantes,Anéis,1,293.39,5
+ID-0082,2023-08-29 00:00:00.000000000,Pulseira Celeste em Ouro Amarelo 18k com Diamantes,Pulseiras,4,1527.01,8
+ID-0083,2023-07-01 08:26:22.417582336,Brinco Baby Solitário em Ouro Amarelo 18k com Esmeralda,Brincos,5,110.2,7
+ID-0084,2023-12-14 00:00:00.000000000,Colar Sonata em Ouro Amarelo 18k,Colares,5,1152.87,12
+ID-0085,2023-06-15 00:00:00.000000000,Pingente Cores em Ouro Amarelo 18k e Safira Azul,Pingentes,9,1024.75,6
+ID-0086,2023-10-08 00:00:00.000000000,Corrente Cadeado Alongada em Ouro Amarelo 18k,Correntes,10,961.53,10
+ID-0087,2023-07-01 08:26:22.417582336,Conjunto Especial Primavera em Ouro Branco 18k com Pérola e Diamantes,Conjuntos,9,434.77,7
+ID-0088,2023-07-26 00:00:00.000000000,Pulseira Celeste em Ouro Amarelo 18k com Diamantes,Pulseiras,7,1734.32,7
+ID-0089,2023-07-26 00:00:00.000000000,Corrente Veneziana em Ouro Branco 18k,Correntes,8,1121.63,7
+ID-0090,2023-07-01 08:26:22.417582336,Anel Vivara em Ouro Amarelo 18k com Ágata Verde e Diamantes,Anéis,1,248.54,7
+ID-0091,2023-08-01 00:00:00.000000000,Anel Celeste em Ouro Amarelo 18k com Diamantes,Anéis,6,1062.66,8
+ID-0092,2023-09-24 00:00:00.000000000,Colar Chains Color em Prata 925 com Topázios London e Safiras Incolores,Colares,6,449.2,9
+ID-0093,2023-07-01 08:26:22.417582336,Colar Sirena em Ouro Rosé 18k com Topázios Sky e Topázios London,Colares,7,786.83,7
+ID-0094,2023-12-17 00:00:00.000000000,Corrente Veneziana em Ouro Branco 18k,Correntes,8,1685.35,12
+ID-0095,2023-09-04 00:00:00.000000000,Conjunto Especial Outono em Ouro Amarelo 18k com Diamantes,Conjuntos,5,304.16,9
+ID-0096,2023-06-24 00:00:00.000000000,Pulseira Celeste em Ouro Amarelo 18k com Diamantes,Pulseiras,7,606.53,6
+ID-0097,2023-07-19 00:00:00.000000000,Pingente Religioso N.Sra.Aparecida em Ouro Amarelo 18k com Safira Azul,Pingentes,6,427.56,7
+ID-0098,2023-01-31 00:00:00.000000000,Corrente Groumet em Ouro Amarelo 18k,Correntes,1,279.75,1
+ID-0099,2023-09-26 00:00:00.000000000,Conjunto Especial Primavera em Ouro Branco 18k com Pérola e Diamantes,Conjuntos,1,226.72,9
+ID-0100,2023-08-06 00:00:00.000000000,Anel Celeste em Ouro Amarelo 18k com Diamantes,Anéis,3,928.0,8
